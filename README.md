@@ -23,16 +23,12 @@
 
 ## 🚀 Projects
 
-- 💰 **Monetra** - Personal finance management platform
-- 📋 **TaskForge** - Task management system
-- 🧠 **TumorDetect.AI** - AI-based tumor detection
-- 🎮 **Tic Tac Toe** - Flutter MVVM game
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+- **Monetra** - Personal finance management platform
+-  **TaskForge** - Task management system
+-  **Mediconnect** - Flutter MVVM game
+-  **TumorDetect.AI** - AI-based tumor detection
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/chethiya-bandara-845017330/
+- Email: Chethiyabandra2004@gmail.com
