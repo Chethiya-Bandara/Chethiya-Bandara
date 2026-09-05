@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 # Hey, I'm Chethiya 👋
 
 🎓 Computer Science Student  
