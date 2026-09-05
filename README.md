@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Chethiya 👋
 
-<!--
-**Chethiya-Bandara/Chethiya-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Software Engineering & Full-Stack Development  
+🤖 AI/ML Enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Python
+- C++
+- C#
+- JavaScript
+- SQL
+
+### Frameworks & Technologies
+- React
+- Next.js
+- FastAPI
+- ASP.NET Core
+- PostgreSQL
+- Node.js
+
+## 🚀 Projects
+
+- 💰 **Monetra** - Personal finance management platform
+- 📋 **TaskForge** - Task management system
+- 🧠 **TumorDetect.AI** - AI-based tumor detection
+- 🎮 **Tic Tac Toe** - Flutter MVVM game
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
