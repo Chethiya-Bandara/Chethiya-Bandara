@@ -27,7 +27,7 @@
 
 - **Monetra** - Personal finance management platform
 -  **TaskForge** - Task management system
--  **Mediconnect** - Flutter MVVM game
+-  **Mediconnect** - Centralized Healthcare Platform
 -  **TumorDetect.AI** - AI-based tumor detection
 
 ## 📫 Connect With Me
