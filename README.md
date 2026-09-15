@@ -20,7 +20,7 @@ I enjoy working across the stack, with a particular focus on **backend engineeri
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,dart,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,html,css&perline=8" />
 </p>
 
 ### Frontend
@@ -44,7 +44,7 @@ I enjoy working across the stack, with a particular focus on **backend engineeri
 ### DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,cloudflare,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,cloudflare,vscode,unity&perline=8" />
 </p>
 
 ### AI, ML & Data
