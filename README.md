@@ -7,7 +7,7 @@ I'm a **Computer Science undergraduate majoring in Software Engineering** with a
 
 I enjoy working across the stack, with a particular focus on **backend engineering, API development, database design, system architecture, and application security**. I also explore **AI and machine learning** through projects that solve real-world problems.
 
-- 🔭 Currently building **Monetra** and **TaskForge**
+- 🔭 Currently building **TaskForge** and **Altera**
 - 🏥 Lead Backend & Database Engineer for **MediConnect**
 - 🧠 Exploring **AI/ML, distributed systems, cybersecurity, and system design**
 - ⚙️ Interested in **backend, full-stack, and software engineering**
